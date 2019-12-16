@@ -15,6 +15,7 @@ public class App {
 
 		LOG.info("Bonjour Slf4J !");
 		LOG.info("Implementation Logback");
+		
 	}
 
 }
